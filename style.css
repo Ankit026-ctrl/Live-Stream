@@ -3,9 +3,9 @@ body,html{
   padding: 0;
 }
 
-@media (min-width: 600px) {
+@media (min-width: 500px) {
   #my-video {
-    max-width: 600px;
+    max-width: 500px;
     max-height: 336px;
     margin-top: 50px;
   	margin-left: auto;
@@ -13,7 +13,7 @@ body,html{
   }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 500px) {
   #my-video {
     max-width: 300px;
     max-height: 168px;
@@ -63,7 +63,7 @@ margin-bottom: 400px;
 }
 
 body, html {
-  width: 100%;
+  width: 80%;
   height: 100%;
   display: flex;
   flex-direction: column;
@@ -73,7 +73,7 @@ body, html {
 
 #my-video {
   width: 70%;
-  max-width: 500px; /* Adjust the maximum width as needed */
+  max-width: 400px; /* Adjust the maximum width as needed */
   margin-top: 20px; /* Optional: to add some space from the top */
   height: auto;
   position: relative;
