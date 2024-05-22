@@ -1,33 +1,8 @@
-body,html{
-  margin: 0;
-  padding: 0;
-}
 
-@media (min-width: 500px) {
-  #my-video {
-    max-width: 500px;
-    max-height: 336px;
-    margin-top: 50px;
-  	margin-left: auto;
-  	margin-right: auto;
-  }
-}
-
-@media (max-width: 500px) {
-  #my-video {
-    max-width: 300px;
-    max-height: 168px;
-    margin-top: 50px;
-  	margin-left: auto;
-  	margin-right: auto;
-  }
-}
 
 #my-video {
   box-shadow: 0 10px 50px rgba(130, 56, 56, 0.85),0 10px 50px rgba(0, 0, 0, 0.65);
 }
-
-
 
 body {
 	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
@@ -51,6 +26,14 @@ body {
 
 #my-video{
 margin-bottom: 400px;
+position: fixed;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  max-width: 800px; /* Adjust the maximum width as needed */
+  height: auto;
+  z-index: 1000;
 }
 
 
