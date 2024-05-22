@@ -44,7 +44,7 @@ body, html {
 #my-video {
   position: fixed;
   top: 50%;
-  left : 50px; 
+  left : 50%; 
   transform: translate(-50%, -50%);
   min-width: 320px; /* Adjust the minimum width as needed */
   min-height: 180px; /* Adjust the minimum height as needed */
