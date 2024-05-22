@@ -69,11 +69,10 @@ body, html {
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
-  Optional: to give a dark background */
-}
+  }
 
 #my-video {
-  width: 100%;
+  width: 70%;
   max-width: 500px; /* Adjust the maximum width as needed */
   margin-top: 20px; /* Optional: to add some space from the top */
   height: auto;
