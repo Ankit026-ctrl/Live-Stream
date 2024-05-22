@@ -48,7 +48,3 @@ body, html {
   z-index: 1000; /* Ensures the video player stays on top of other elements */
 }
 
-.jwplayer {
-  width: 100% !important;
-  height: auto !important;
-}
