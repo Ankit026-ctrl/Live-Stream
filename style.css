@@ -25,11 +25,7 @@ body {
 
 
 /* Basic reset */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+
 
 body, html {
   
@@ -42,7 +38,8 @@ body, html {
 
 #my-video {
   position: fixed;
-  width: 400px
+  width: 400px;
+  margin-top:50px;
 }
 
 /* Adjust the player width specifically for Android mobile devices */
