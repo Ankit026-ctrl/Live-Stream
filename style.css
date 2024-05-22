@@ -34,8 +34,8 @@
 }
 
 body, html {
-  width: 50%;
-  height: 100%;
+  width: 30%;
+  height: 70%;
   overflow: hidden; /* Prevents scrolling */
   background-color: #000; /* Optional: to give a dark background */
   display: flex;
