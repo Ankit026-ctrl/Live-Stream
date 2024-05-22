@@ -12,25 +12,6 @@ body,html{
   justify-content: center;
 }
 
-@media (min-width: 400px) {
-  #my-video {
-    max-width: 500px;
-    max-height: 400px;
-    margin-top: 50px;
-  	margin-left: auto;
-  	margin-right: auto;
-  }
-}
-
-@media (max-width: 500px) {
-  #my-video {
-    max-width: 300px;
-    max-height: 400px;
-    margin-top: 50px;
-  	margin-left: auto;
-  	margin-right: auto;
-  }
-}
 
 #my-video {3
   box-shadow: 0 10px 50px rgba(130, 56, 56, 0.85),0 10px 50px rgba(0, 0, 0, 0.65);
