@@ -12,7 +12,7 @@ body,html{
   justify-content: center;
 }
 
-@media (min-width: 600px) {
+@media (min-width: 400px) {
   #my-video {
     max-width: 500px;
     max-height: 400px;
