@@ -44,7 +44,7 @@ body, html {
 #my-video {
   position: fixed;
   top: 50%;
-  left : 50%; 
+  left: 50%;
   transform: translate(-50%, -50%);
   min-width: 320px; /* Adjust the minimum width as needed */
   min-height: 180px; /* Adjust the minimum height as needed */
@@ -52,6 +52,14 @@ body, html {
   height: 100%;
   z-index: 1000; /* Ensures the video player stays on top of other elements */
 }
+
+/* Adjust the player width specifically for Android mobile devices */
+@media only screen and (max-width: 767px) and (min-width: 320px) {
+  #my-video {
+    width: 80%; /* Adjust the width as needed */
+  }
+}
+
 
 
 
