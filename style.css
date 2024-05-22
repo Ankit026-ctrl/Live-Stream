@@ -34,8 +34,6 @@
 }
 
 body, html {
-  width: 30%;
-  height: 70%;
   overflow: hidden; /* Prevents scrolling */
   background-color: #000; /* Optional: to give a dark background */
   display: flex;
@@ -50,8 +48,8 @@ body, html {
   transform: translate(-50%, -50%);
   min-width: 320px; /* Adjust the minimum width as needed */
   min-height: 180px; /* Adjust the minimum height as needed */
-  width: 30%;
-  height: 50%;
+  width: 350px;
+  height: 330%;
   z-index: 1000; /* Ensures the video player stays on top of other elements */
 }
 
