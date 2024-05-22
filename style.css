@@ -74,13 +74,8 @@ body, html {
 
 #my-video {
   width: 100%;
-  max-width: 800px; /* Adjust the maximum width as needed */
+  max-width: 500px; /* Adjust the maximum width as needed */
   margin-top: 20px; /* Optional: to add some space from the top */
   height: auto;
   position: relative;
-}
-
-.jwplayer {
-  width: 100% !important;
-  height: auto !important;
 }
