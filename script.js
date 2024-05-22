@@ -11,3 +11,12 @@ jwplayer("my-video").setup({
 		}
 	}
 });
+
+
+
+window.addEventListener("load", function() {
+      var result = window.confirm("Join Telegram Group More Movies🎬");
+      if (result) {
+        window.location.href = "https://t.me/movieswebseries_group";
+      }
+    });
