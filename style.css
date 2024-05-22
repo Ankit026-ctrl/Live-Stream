@@ -53,3 +53,34 @@ body {
 #my-video{
 margin-bottom: 400px;
 }
+
+
+/* Basic reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body, html {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  Optional: to give a dark background */
+}
+
+#my-video {
+  width: 100%;
+  max-width: 800px; /* Adjust the maximum width as needed */
+  margin-top: 20px; /* Optional: to add some space from the top */
+  height: auto;
+  position: relative;
+}
+
+.jwplayer {
+  width: 100% !important;
+  height: auto !important;
+}
