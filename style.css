@@ -20,3 +20,6 @@ body, html {
             width: 100%;
             max-width: 600px; /* Optional: limit the width for larger screens */
             height: auto;
+          margin: 0; /* No margin on any side */
+            padding: 0; 
+}
