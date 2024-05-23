@@ -8,18 +8,23 @@ background-color: #000;
 width:100%
 }
 
-body, html {
-            height: 100%;
-            margin: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
 
- #my-video {
-            width: 100%;
-            max-width: 600px; /* Optional: limit the width for larger screens */
-            height: auto;
-          margin: 0; /* No margin on any side */
-            padding: 0; 
-}
+body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      
+    }
+
+    h1 {
+      font-size: 24px;
+      
+    }
+
+    #my-video {
+      width: 400px;
+      height: 
+     margin-top:-110px
+display:block;
+    }
