@@ -18,8 +18,6 @@ html {
         height:550px!important;
         }
 
-
-
  .social-menu ul{
     position: absolute;
     top: 50%;
@@ -28,6 +26,8 @@ html {
     margin: 0;
     transform: translate(-50%, -50%);
     display: flex;
+    width: 70vw; /* Takes up 70% of the viewport width */
+  height: auto;
 }
 
 .social-menu ul li{
