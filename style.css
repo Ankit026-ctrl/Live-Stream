@@ -15,10 +15,8 @@ html {
             padding: 0;
         }
 
-        #my-video{
+        .video{
         position: absolute;
-        margin: -20px;
-        margin-right:20px;
-        width:400px!important;
-        height:360px!important;
+        width:100%!important;
+        height:30%!important;
         }
