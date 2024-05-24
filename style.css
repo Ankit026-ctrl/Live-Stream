@@ -10,13 +10,13 @@ background-color: #000 ;
 
 html {
             font-family: Poppins;
-            background:#FF99CC;
+            background:#000;
             margin: 0;
-            padding: 0
+            padding: 0;
         }
 
         #my-video{
         position: absolute;
         width:100%!important;
-        height:50%!important;
+        height:100%!important;
         }
