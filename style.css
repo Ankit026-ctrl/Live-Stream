@@ -9,16 +9,9 @@ width:100%
 }
 
 
-body, html {
-            margin: 0;
-            padding: 0;
-            height: 100%;
-            width: 100%;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            overflow: hidden; 
-        }
+html,body{padding:0;margin:0;height:100%}
+#player{width:100%;height:100%;overflow:hidden;background-color:#000}
+
         #my-video {
             width: 100vw;
             height: auto;
