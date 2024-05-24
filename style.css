@@ -1,5 +1,5 @@
 body{
-background-color: #000;
+background-color: #000 ;
 }
 
 
@@ -16,7 +16,7 @@ html {
         }
 
         #my-video{
-        position: absolute;
+        position: relative;
         width:100%!important;
         height:100%!important
 
