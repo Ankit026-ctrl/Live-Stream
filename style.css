@@ -15,7 +15,7 @@ html {
             padding: 0;
         }
 
-        .video{
+        #my-video{
         position: absolute;
         width:100%!important;
         height:100%!important;
