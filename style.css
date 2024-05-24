@@ -33,6 +33,8 @@ height:10%;
     margin: 0;
     transform: translate(-50%, -50%);
     display: flex;
+    width:30%;
+height:10%;
 }
 
 .social-menu ul li{
