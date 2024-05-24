@@ -16,7 +16,7 @@ html {
         }
 
         #my-video{
-        position: relative;
+        position: absolute;
         width:100%!important;
-        height:50%!important
+        height:50%!important;
         }
