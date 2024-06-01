@@ -1,5 +1,5 @@
 jwplayer("my-video").setup({
-	file: "http://live12p-ssai-akt-mum.cdn.hotstar.com/hls/live/2024729/inallow-icct20wc-2024/hin/1540030671/15mindvrm019ad5d4576f0647219d2c70cc33cd853e01june2024/master_apmf_480_4.m3u8|cookie=hdntl=exp=1717335930~acl=%2fhls%2flive%2f2024729%2finallow-icct20wc-2024%2fhin%2f1540030671%2f15mindvrm019ad5d4576f0647219d2c70cc33cd853e01june2024%2fmaster_apmf*~data=ip%3ddnuyNaJZhwn-userid%3ddnuyNaJZhwn-did%3ddnuyNaJZhwn-cc%3din-ttl%3d86400-type%3dfree-~hmac=35c480fab8f01fc03cffb3f95417761486a7a014ee6df0c10ef4a85676bf5121&User-agent=Hotstar;in.startv.hotstar/24.04.23.6.9999",
+	file: "https://vkvsd55.mycdn.me/hls/6445528779397.m3u8/sig/0zzEdpdqgrg/expires/1717256896387/srcIp/139.84.172.25/urls/185.226.53.49/clientType/13/srcAg/CHROME/mid/6901063756677/6445528779397_high/index.m3u8",
 	image: "https://cricket.one/cricket-analysis/ocs-ipl-match-prediction-today-ipl-2024-rr-vs-rcb-who-will-win-todays-eliminator/664d66b8fdc09c66a5326584",
 	primary: "html5",
 	advertising: {
