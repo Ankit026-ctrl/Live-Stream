@@ -1,5 +1,5 @@
 jwplayer("my-video").setup({
-	file: "https://dai.google.com/linear/hls/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8",
+	file: "https://pubads.g.doubleclick.net/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8",
 	image: "https://cricket.one/cricket-analysis/ocs-ipl-match-prediction-today-ipl-2024-rr-vs-rcb-who-will-win-todays-eliminator/664d66b8fdc09c66a5326584",
 	primary: "html5",
 	advertising: {
